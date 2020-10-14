@@ -14,14 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Mohammed Ashfaq 👋
+# Hello, I'm Mohammed Ashfaqs 👋
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![Reactjs](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
-
-Computer Science student at [University of Bologna](https://www.unibo.it/en). Fascinated by everything that's CS related. 
+Final Year Computer Science student from India. Fascinated by everything that's CS related. 
 
 - 🔭 I’m currently studying **Computer Science**.
 - 🌱 I’m currently learning **Full Stack Development** with **MERN stack**
@@ -31,13 +26,20 @@ Computer Science student at [University of Bologna](https://www.unibo.it/en). Fa
 
 ### 📬 Get in Touch
 
-- Kaggle: [kaggle.com/federico-dondi][kaggle]
-- StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
+
 - GitHub: [github.com/ashfaqhaq][github]
-- LinkedIn: [linkedin.com?in/ashfaqhaq][linkedin]
+- LinkedIn: [linkedin.com/in/ashfaqhaq][linkedin]
 
 - E-mail: ashfaqhaq94@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=ashfaqhaq&show_icons=true&hide_border=true)
+![Ashfaq's github stats](https://github-readme-stats.vercel.app/api?username=ashfaqhaq&show_icons=true&hide_border=true)
+
+
+
+
+
+[github]: https://github.com/federico-dondi
+[linkedin]: https://linkedin.com/in/ashfaqhaq
+
