@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Mohammed Ashfaqs 👋
+# Hello, I'm Mohammed Ashfaq 👋
+
+
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
+![Reactjs](https://img.shields.io/badge/Reactjs-Intermediate-blue)
+
 
 Final Year Computer Science student from India. Fascinated by everything that's CS related. 
 
