@@ -35,7 +35,10 @@ Final Year Computer Science student from India. Fascinated by everything that's 
 
 
 - GitHub: [github.com/ashfaqhaq][github]
+
 - LinkedIn: [linkedin.com/in/ashfaqhaq][linkedin]
+
+- Twitter: [https://twitter.com/ashfaq_ulhaq][twitter]
 
 - E-mail: ashfaqhaq94@gmail.com
 
@@ -47,6 +50,6 @@ Final Year Computer Science student from India. Fascinated by everything that's 
 
 
 
-[github]: https://github.com/federico-dondi
+[github]: https://github.com/ashfaqhaq
 [linkedin]: https://linkedin.com/in/ashfaqhaq
-
+[twitter]: https://twitter.com/ashfaq_ulhaq
