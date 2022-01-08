@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 ![Reactjs](https://img.shields.io/badge/Reactjs-Intermediate-9cf)
 
 
-Final Year Computer Science student from India. Fascinated by everything that's CS related. 
+CSE '21 Passout Grad.
+
 
 - 🔭 I’m currently studying **Computer Science**.
 - 🌱 I’m currently learning **Full Stack Development** with **MERN stack**
@@ -45,7 +46,6 @@ Final Year Computer Science student from India. Fascinated by everything that's 
 ### 📚 Looking for my Resume? E-Mail me!
 
 ![Ashfaq's github stats](https://github-readme-stats.vercel.app/api?username=ashfaqhaq&show_icons=true&hide_border=true)
-
 
 
 
