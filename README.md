@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 CSE '21 Passout Grad.
 
 
-- 🔭 I’m currently studying **Computer Science**.
-- 🌱 I’m currently learning **Full Stack Development** with **MERN stack**
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`
-- 👯 I’m looking to collaborate on **Open Source** projects
+- 🔭 Currently working as a Lead Software Engineer, building impactful Shopify apps.
+- 🌱 Exploring backend systems, AWS, and dabbling in Rust & PostgreSQL for side projects.
+- ⚙️ Skilled in: .js, .ts, Node.js, React, MongoDB, AWS (Lambda, S3, DynamoDB)
+- 🛠️ Learning:  Rust, and system design
+- 👯 Open to collaborating on Open Source and developer productivity tools.
 
 
 ### 📬 Get in Touch
